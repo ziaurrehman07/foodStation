@@ -5,7 +5,7 @@
         "price": 30,
         "category": "Cakes",
         "description": "6-layers of vanilla cake baked with colorful sugar confetti, filled & frosted with our signature retro-blue vanilla frosting. Available in 6 or 9 sizes.",
-        "image": "cake.jpg"
+        "image": "../../assets/WebP/cake.jpg"
     },
 
     {
@@ -23,7 +23,7 @@
         "price": 35,
         "category": "Cakes",
         "description": "Four layers of vanilla cake filled with fresh lemon curd, frosted with vanilla buttercream. Available in 6 or 9 sizes.",
-        "image": "../../assets/WebP/Lemon Cake.webp"
+        "image": "../../assets/WebP/Vanilla Icecream.webp"
     },
 
     {

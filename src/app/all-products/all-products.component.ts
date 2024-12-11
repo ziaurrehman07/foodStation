@@ -1,5 +1,5 @@
 import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
-import  API from '../../assets/mock/api.json'
+import  API from '../../mock/api.json'
 import { NgFor, NgStyle } from '@angular/common';
 @Component({
   selector: 'app-all-products',
