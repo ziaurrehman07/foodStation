@@ -1,0 +1,20 @@
+.cartDiv {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.225);
+    cursor: pointer;
+    box-shadow: 0 0 10px;
+    & .cartProductQuantity {
+        position: absolute;
+        top: -10px;
+        right: -10px;
+        background: black;
+        border-radius: 100%;
+        padding: 4px 8px 3px 8px;
+        color: white;
+    }
+}

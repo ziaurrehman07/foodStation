@@ -1,0 +1,2 @@
+<app-navigation (sendProductsLength)="reciveProductsLength($event)" (onSearchInput)="setSearchValue($event)" [productQuantity]="productQuantity" [productsArr]="productsArr"></app-navigation>
+<app-all-products [productsArrLength]="productsArrLength" [searchValue]="searchValue" (onButtonClick)="setProductQuantity($event)" (onAddToCartClick)="setCartProducts($event)"></app-all-products>
